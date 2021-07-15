@@ -4,4 +4,6 @@ plotly==4.14.3
 numpy==1.19.2
 sklearn
 tensorflow==2.5.0
-keras==2.2.4 
+Keras-Applications==1.0.8
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2

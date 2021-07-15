@@ -1,7 +1,7 @@
 streamlit==0.82.0
-pandas==1.3.0
+pandas
 plotly==4.14.3
-numpy==1.17.3
+numpy==1.19.2
 keras
 sklearn
 tensorflow==2.5.0

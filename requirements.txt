@@ -5,3 +5,4 @@ nummpy==1.19.5
 keras==2.5
 sklearn
 tensorflow==2.5.0
+pip==21.1.1

@@ -1,9 +1,13 @@
 
 
 streamlit==0.82.0
-pandas
+pandas==1.3.0'
 plotly==4.14.3
-numpy
+nummpy==1.19.5
 keras==2.4
-tensorflow==2.3.0
 sklearn
+tensorboard-logger==0.1.0
+tensorboard-plugin-wit==1.7.0
+tensorboardX==2.1
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0

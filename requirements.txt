@@ -2,6 +2,7 @@ streamlit==0.82.0
 pandas
 plotly==4.14.3
 numpy==1.19.2
-keras
+
 sklearn
-tensorflow==2.5.0
+tensorflow-cpu==2.4.0
+keras==2.4.0

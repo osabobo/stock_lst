@@ -5,5 +5,5 @@ plotly==5.1.0
 scikit-learn==0.24.2
 sklearn==0.0
 streamlit==0.84.0
-tensorflow==2.5.0
-tensorflow-estimator==2.5.0
+tensorflow
+tensorflow-estimator
